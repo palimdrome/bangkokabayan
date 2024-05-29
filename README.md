@@ -41,4 +41,12 @@ To run the program, click the ⏩ button (see image below). Wait a few seconds (
 
 ![image](https://github.com/palimdrome/bangkokabayan/assets/98687205/15f0e64e-6c25-450f-a166-e742b45aa08c)
 
+Then, a CSV file containing the summary report will be generated in the same directory.
+
+![image](https://github.com/palimdrome/bangkokabayan/assets/98687205/90e43252-c106-4ef3-829f-28473edab007)
+
 <br />
+
+## How to change or add more data?
+To change or add data, just modify the `Account_Master.csv` and `Id_Master.csv` files. <br />
+⚠️ Take note that only rows can be added and not columns, otherwise, the program might not run properly anymore.
