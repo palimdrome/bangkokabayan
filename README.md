@@ -3,6 +3,7 @@
 `bk_program.ipynb` - the Jupyter Notebook that contains the Python program <br />
 `Account_Master.csv` - spreadsheet containing the data provided (accounts) <br />
 `Id_Master.csv` - spreadsheet containing the client IDs and names (clients) <br />
+`Instructions.pdf` - instructions provided <br />
 
 ## How to run the program in your local computer?
 ### Step 1: _Download this repository to your local computer._
